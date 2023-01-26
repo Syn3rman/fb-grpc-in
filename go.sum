@@ -1,0 +1,11 @@
+github.com/calyptia/cmetrics-go v0.1.7 h1:A4kEFuFqVuWzytIbbey9KivHi0GQVjOkE2JJkdRbQ2U=
+github.com/calyptia/cmetrics-go v0.1.7/go.mod h1:K1IEPgICDtD4mJW7RVhfG4BkCywnjCdYZwbKs0jSw/U=
+github.com/calyptia/plugin v0.1.6 h1:DfkyG+K2u8prIQw6pdNhfbpL/wNGkx6c6qOwEer/PcE=
+github.com/calyptia/plugin v0.1.6/go.mod h1:ReuBnj8mVhVoO2AAEHsgXf+bdwboPCkDvltUyT7P2HY=
+github.com/fluent/fluent-bit-go v0.0.0-20221129124408-1c1d505c91a5 h1:Tv0DD0GlyTeptXhk7reG5bMGERgxelnnOrCGZbmE6KE=
+github.com/fluent/fluent-bit-go v0.0.0-20221129124408-1c1d505c91a5/go.mod h1:L92h+dgwElEyUuShEwjbiHjseW410WIcNz+Bjutc8YQ=
+github.com/ugorji/go v1.1.7 h1:/68gy2h+1mWMrwZFeD1kQialdSzAb432dtpeJ42ovdo=
+github.com/ugorji/go v1.1.7/go.mod h1:kZn38zHttfInRq0xu/PH0az30d+z6vm202qpg1oXVMw=
+github.com/ugorji/go/codec v1.1.7/go.mod h1:Ax+UKWsSmolVDwsd+7N3ZtXu+yMGCf907BLYF3GoBXY=
+github.com/ugorji/go/codec v1.2.8 h1:sgBJS6COt0b/P40VouWKdseidkDgHxYGm0SAglUHfP0=
+github.com/ugorji/go/codec v1.2.8/go.mod h1:UNopzCgEMSXjBc6AOMqYvWC1ktqTAfzJZUZgYf6w6lg=
